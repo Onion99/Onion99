@@ -3,4 +3,4 @@
 
 <!-- ![skill](https://github-readme-stats.vercel.app/api/top-langs/?username=onion99&hide_border=true&hide=javascript,html) -->
 
-<img align="left" alt="Top Languages" width= 496 src="https://github-readme-stats.vercel.app/api/top-langs/?username=onion99&hide_border=true&hide=javascript,html" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onion99&hide_border=true&hide=javascript,html" />
