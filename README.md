@@ -4,7 +4,9 @@
 <h3 align="center"><strong>Onion99</strong></h3>
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
+<img src="https://img.shields.io/badge/language-kotlin-purple.svg"/>
+<img src="https://img.shields.io/badge/language-java-purple.svg"/>
+<img src="https://img.shields.io/badge/language-dart-purple.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/> 
 </p>
 <br/>
