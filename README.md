@@ -12,9 +12,8 @@
 <br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onion99&count_private=true&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onion99&hide_border=true&hide=javascript,html" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onion99&hide_border=true&hide=javascript,html&theme=onedark" /> </p>
 
 
 <br/>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=onion99&repo=github-readme-stats&title_color=fff&theme=onedark)
