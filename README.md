@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/language-dart-purple.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/> 
 </p>
-<br/>
 
 <p align="center"> <img src="https://githubcard.com/Onion99.svg?d=mF2QAqgv" /> </p>
 
