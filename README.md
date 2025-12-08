@@ -11,8 +11,7 @@
 </p>
 <br/>
 
-<p align="center"> <img src="https://githubcard.com/Onion99.svg?d=CvLW1woq" /> </p>
-<p align="center"> <img src="https://githubcard.com/Onion99.svg?d=FKhHxTMe" /> </p>
+<p align="center"> <img src="https://githubcard.com/Onion99.svg?d=mF2QAqgv" /> </p>
 
 
 <br/>
